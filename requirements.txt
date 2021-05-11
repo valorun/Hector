@@ -1,4 +1,4 @@
-eventlet==0.30.0
+eventlet==0.31.0
 Flask==1.1.2
 Flask-Bcrypt==0.7.1
 Flask-MQTT==1.1.1
